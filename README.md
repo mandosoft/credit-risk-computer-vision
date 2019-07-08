@@ -1,1 +1,3 @@
-## credit-risk-computer-vision
+## Credit Risk Computer Vision
+
+![](MnistExamples.png?raw=true)
